@@ -1,0 +1,10 @@
+git 
+github
+working directory
+staging
+commit
+checkout
+pull
+push
+add
+status
